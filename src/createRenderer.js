@@ -109,6 +109,10 @@ export default function createRenderer (tracker, options, overrides = {}) {
     return addElement('sup', null, text);
   }
 
+  renderer.sub = overrides.sub || function (text) {
+    return addElement('sub', null, text);
+  }
+
   renderer.em = overrides.em || function (text) {
     return addElement('em', null, text);
   }
