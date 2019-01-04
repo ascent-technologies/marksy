@@ -52,6 +52,6 @@
   "dependencies": {
     "babel-standalone": "^6.24.0",
     "he": "^1.1.1",
-    "marked": "ascent-technologies/marked#71bd28e2"
+    "marked": "ascent-technologies/marked#21a58f0a"
   }
 }
