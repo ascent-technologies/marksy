@@ -52,6 +52,6 @@
   "dependencies": {
     "babel-standalone": "^6.24.0",
     "he": "^1.1.1",
-    "marked": "git@github.com:ascent-technologies/marked.git#APP-534-dollar-sign-subscript"
+    "marked": "ascent-technologies/marked#b8e00fd1"
   }
 }
